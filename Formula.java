@@ -25,15 +25,7 @@ public class Formula {
             expression= exp;
         }
         
-        /*public static void main(String[] args) throws IOException{
         
-       System.out.println("Введите выражение вставляя пробел после каждого оператора");
-        BufferedReader reader=new BufferedReader(new InputStreamReader(System.in));
-        expression = reader.readLine();
-        System.out.println(Estimate());
-        
-        
-    }*/
         /// <summary>
         /// Проверка корректности скобочной структуры входного выражения 
         /// </summary>
